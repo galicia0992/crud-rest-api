@@ -1,0 +1,45 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan",
+      "email": "correo2@correo.com",
+      "telefono": "12",
+      "empresa": "12212",
+      "id": 26
+    },
+    {
+      "nombre": "SANDRA LUZ",
+      "email": "galicia0992@gmail.com",
+      "telefono": "2222",
+      "empresa": "prueba",
+      "id": 27
+    },
+    {
+      "nombre": "SANDRA LUZ",
+      "email": "galicia0992@gmail.com",
+      "telefono": "2222",
+      "empresa": "prueba",
+      "id": 28
+    },
+    {
+      "nombre": "Yair Galicia",
+      "email": "galicia0992@gmail.com",
+      "telefono": "2282928851",
+      "empresa": "prueba",
+      "id": 29
+    },
+    {
+      "nombre": "sandra luz muñiz delgado",
+      "email": "galicia0992@gmail.com",
+      "telefono": "2222",
+      "empresa": "prueba",
+      "id": 33
+    }
+  ],
+  "gasto": [
+    {
+      "name": "prueba",
+      "lel": "lel"
+    }
+  ]
+}
